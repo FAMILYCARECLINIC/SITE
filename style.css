@@ -1,0 +1,105 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+  background-color: white;
+}
+
+.title {
+  color: red;
+  font-size: 8vw;
+  vertical-align: top;
+  margin-top: 3vh;
+  font-weight: bold;
+}
+
+hr {
+  margin-left: 10vw;
+  margin-right: 10vw;
+  height: 1vh;
+  background-color: rgba(0, 0, 255, 0.753);
+  border: none;
+}
+
+.name {
+  color: blue;
+  font-size: 6vw;
+}
+
+.position {
+    font-size: 2vw;
+    font-weight: bold;
+    margin-bottom: 4vh;
+}
+
+.clinic {
+    font-size: 5vw;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+
+.contact {
+    background-color: blue;
+    color: white;
+    margin-top: 2vh;
+    font-size: 3vw;
+    border-radius: 1em;
+    font-weight: bold;
+    padding-top: 0.4vh;
+    padding-bottom: 0.4vh;
+    padding-left: 1.1vh;
+    padding-right: 1.1vh;
+    vertical-align:middle;
+}
+
+.number {
+    font-weight: bold;
+    color: red;
+    font-size: 4vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
+
+.address {
+    font-size: 3.5vw;
+    font-weight: bold;
+    color: blue;
+}
+
+.near {
+    font-size: 3.2vw;
+    font-weight: bold;
+}
+
+.consult {
+  margin-top: 1vh;
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+.form {
+  margin-top: 2vh;
+  margin-bottom: 3vh;
+  font-size: 2vw;
+}
+
+a {
+  color: blue;
+  background-color: rgb(169, 255, 255);
+  padding: 1.2vh;
+  border-radius: 3vh;
+  text-decoration: none;
+  border-color: black;
+}
+
+a:visited {
+  color:blue
+}
+
+a:hover {
+  color: red
+}
+
+a:active {
+  color:black
+}
